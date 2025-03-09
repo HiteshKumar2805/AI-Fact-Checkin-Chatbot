@@ -9,7 +9,7 @@ The AI Fact-Checking Chatbot is a smart chatbot that verifies the truthfulness o
 - Validatied Information
 - Fast & Responsive 
 - Dark Mode Support
-- Mulitple Language Detection
+- Multilingual Support
 
 ## Techonologies Used 
 - HTML
