@@ -16,6 +16,10 @@ The AI Fact-Checking Chatbot is a smart chatbot that verifies the truthfulness o
 - CSS
 - JAVA SCRIPT
 - LLM KEY
+
+## Live Server 
+
+https://ai-fact-checking-chatbot.onrender.com
   
 ## Installation
 
