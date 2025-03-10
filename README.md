@@ -20,7 +20,14 @@ The AI Fact-Checking Chatbot is a smart chatbot that verifies the truthfulness o
 ## Live Server 
 
 https://ai-fact-checking-chatbot.onrender.com
-  
+
+## Future Enhancements
+
+- Integration into existing social media ( like Reddit,X,etc )
+- Making into a browser extension
+- Supporting Audio,Video and Photo format
+- Clean Server Setup  
+
 ## Installation
 
 If you want to run this project locally, follow these steps:
